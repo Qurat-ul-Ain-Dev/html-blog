@@ -1,7 +1,7 @@
 # Html Blog
 
 ### Output
-<img src="output.PNG" />
+<img src="Output.1.PNG" />
 
 
 #### Developed By Qurat-ul-Ain
